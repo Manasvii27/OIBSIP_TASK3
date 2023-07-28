@@ -9,12 +9,12 @@ Sales prediction involves forecasting the quantity of products or services that 
 **Pre-requisites**
 Before running the code, make sure you have Python and the following libraries installed:
 
-# pandas
-# seaborn
-# numpy
-# plotly
-# matplotlib
-# scikit-learn
+### pandas
+### seaborn
+### numpy
+### plotly
+### matplotlib
+### scikit-learn
 
 ## Steps to Implement Sales Prediction:
 
