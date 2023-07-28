@@ -42,7 +42,6 @@ To assess the model's performance, we make predictions on the test data and calc
 ## Conclusion
 
 Sales prediction is an essential task for businesses to make informed decisions about advertising expenditure and expected sales. Through this Python project, we demonstrated how to use machine learning, specifically Linear Regression, to predict sales based on advertising spending on different platforms. The model's evaluation metrics provide insights into the model's accuracy and its potential impact on sales. By understanding the advertising impact, businesses can optimize their advertising strategies to achieve better sales results.
-## Conclusion
 
 In this project, we utilized Python and machine learning techniques, specifically Linear Regression, to perform sales prediction based on advertising spending on different platforms (TV, Radio, and Newspaper). The key findings and conclusions from the analysis are as follows:
 
