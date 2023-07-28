@@ -5,6 +5,17 @@ Sales Prediction Using Python
 
 Sales prediction involves forecasting the quantity of products or services that customers are likely to purchase based on various factors such as advertising expenditure, target audience, and advertising platform. In this project, we will explore sales prediction using machine learning with Python. We will use a dataset containing information about advertising spending on different platforms (TV, Radio, and Newspaper) and the corresponding sales figures.
 
+**Getting Started**
+**Pre-requisites**
+Before running the code, make sure you have Python and the following libraries installed:
+
+pandas
+seaborn
+numpy
+plotly
+matplotlib
+scikit-learn
+
 ## Steps to Implement Sales Prediction:
 
 ### Step 1: Import the Required Libraries
